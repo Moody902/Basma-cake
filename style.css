@@ -98,3 +98,37 @@ body{
     top:100px;
     background-color: burlywood;
 }
+
+
+.b{
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.b button{
+    padding: 10px 20px;
+    background-color: coral;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.b button a {
+    font-size: 18px;
+    font-family: 'Bodoni Moda', serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.b button:hover{
+    background-color: crimson;
+}
